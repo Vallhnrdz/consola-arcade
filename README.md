@@ -1,5 +1,4 @@
 #  Retro Arcade Console (POO)
-
 Simulación de una consola de videojuegos en Java, por consola. Permite lanzar tres juegos y consultar el Top 3 de puntuaciones de cada uno. El proyecto aplica herencia, interfaces, polimorfismo y paquetes.
 
 ## Juegos
